@@ -5,7 +5,6 @@ tags:
  - Van Buren Labs
  - Bio-Inspired
  - Robotics
-date: '2023-12-20T00:00:00Z'
 
 
 # Optional external URL for project (replaces project detail page).
