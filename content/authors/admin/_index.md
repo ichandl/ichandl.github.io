@@ -76,7 +76,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=wLFk44oAAAAJ
   - icon: github
@@ -85,9 +85,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ichandl/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -96,5 +93,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Isaac M Chandler is a mechanical engineering undergraduate at The University of Delaware. His coursework and research are focused on controls, AI, robotics, instrumentation, and fluid mechanics. Outside the classroom, Isaac serves as a small group leader and a campus-wide leader for InterVarsity at the University of Delaware. Additionally, he is a former member of UD Esports and Aero SAE. After graduating in spring 2025, he plans to begin a doctoral program in mechanical engineering.
 {style="text-align: justify;"}
