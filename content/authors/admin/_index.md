@@ -43,10 +43,10 @@ education:
   courses:
     - course: MS in Robotics
       institution: University of Delaware
-      year: Expected Spring 2025
+      year: Spring 2025
     - course: BME in Mechanical Enginering
       institution: University of Delaware
-      year: Expected Fall 2024
+      year: Fall 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

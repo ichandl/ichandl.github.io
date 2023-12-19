@@ -9,9 +9,7 @@ main:
     weight: 10
   - name: Projects
     url: '#projects'
-    weight: 50
-
-
+    weight: 30
    - name: Resume
    url: uploads/resume.pdf
    weight: 90
