@@ -1,13 +1,13 @@
 ---
-title: MOZA Unmanned Underwater Swimmer
-summary: Bio-Inspired Robotics Project
+title: Rock-Sat C Student Launch Opportunity
+summary: Student launch opportunity, investigating plasma physics in the upper ionosphere.
 tags:
- - Van Buren Labs
- - Bio-Inspired
- - Robotics
+ - DSpOC
+ - Instrumentation
+
 
 image:
- caption: MOZA Concept Art
+ caption: Photo of Payload at Flight Integration
 
 show_date: false
 ---
