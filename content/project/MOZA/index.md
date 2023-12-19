@@ -1,6 +1,6 @@
 ---
 title: MOZA Unmanned Underwater Swimmer
-summary: Bio-Inspired Robotics Project at VBL
+summary: Bio-Inspired Robotics Project
 tags:
  - Van Buren Labs
  - Bio-Inspired
