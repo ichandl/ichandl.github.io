@@ -10,7 +10,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-   - name: Resume
+
+  - name: Resume
    url: uploads/resume.pdf
    weight: 90
   - name: Contact
