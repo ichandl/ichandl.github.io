@@ -9,7 +9,7 @@ tags:
 image:
  caption: MOZA Concept Art
 
-show_date: flase
+show_date: false
 ---
 
 My primary research project over this past year (2023), including this summer, has been on an Unmanned Underwater Vehicle (UUV) that utilizes bio-inspired propulsion to achieve high-efficiency forward thrust. I have been primarily involved with the small-scale test vehicle, where I have designed mechanical hardware and the controls system. The small-scale demonstrator was used to secure funding for the full-scale design and will used as a test-bed for control schema and system dynamics.
