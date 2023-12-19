@@ -6,6 +6,8 @@ tags:
  - Bio-Inspired
  - Robotics
 
+date: '2016-04-27T00:00:00Z'
+
 image:
  caption: MOZA Concept Art
 
