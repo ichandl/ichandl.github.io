@@ -6,7 +6,7 @@ tags:
  - Bio-Inspired
  - Robotics
 
-date: '2016-04-27T00:00:00Z'
+date: '2023-12-20'
 
 image:
  caption: MOZA Concept Art
