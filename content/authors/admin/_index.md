@@ -36,7 +36,7 @@ interests:
   - Bio-Inspired Design
   - Robotics
   - Instrumentation
-  - Artificial Intelegence
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
