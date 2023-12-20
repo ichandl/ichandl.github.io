@@ -30,7 +30,7 @@ My secondary roles were to assist in developing the flight software and analog e
 
 Our project culminated in a launch in August 2023. Unfortunately, due to an oversight in the design of the power system, our team lost power after reaching maximum thrust. No useful data was recovered. All future development of the University of Delaware Ionospheric Probe and the ground software has been handed off to the Delaware Cube-Sat team, who will tentatively launch in Spring 2025.
 
-{{< video src="Launch.MOV" controls="yes" >}}
+{{< youtube xMIaCJXXrcI >}}
 
 Great thanks to Professor Maruca and Jarod Dagney, who were the project advisors and my personal mentors. Additionally, Dax Moreas, thank you for being an incredible team leader, and it was a pleasure to work with Nick Ulizio, TJ Kaifer, Miguel Mercado, and Allie Phantom. Finally, this project was only possible with the financial support of the Delaware Space Grant Consortium and the Wallops Island Flight Facility’s educational team.
 
