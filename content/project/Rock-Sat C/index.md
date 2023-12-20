@@ -12,7 +12,7 @@ image:
 show_date: false
 ---
 
-As a follow up to my [Rock-On experience]({{< relref "/project/rock-on-workshop" >}}), I participated in the annual Rock-Sat C student launch opportunity, again as a member of the University of Delaware Team. Unlike Rock-On though, this time we were designing an experiment and scientific payload from scratch. My group chose a Langmuir Probe, as it was one of the few experiments capable of producing novel data in the upper ionosphere, the peak hight of our sub-orbital sounding rocket.
+As a follow up to my [Rock-On experience]({{< relref "../rock-on-workshop/" >}}), I participated in the annual Rock-Sat C student launch opportunity, again as a member of the University of Delaware Team. Unlike Rock-On though, this time we were designing an experiment and scientific payload from scratch. My group chose a Langmuir Probe, as it was one of the few experiments capable of producing novel data in the upper ionosphere, the peak hight of our sub-orbital sounding rocket.
 
 A Langmuir Probe essentially turns plasma into a big ol' resistor. By applying an electric potential (voltage difference) between two points seperated by plasma, and measuring the current induced, you can fit the result to an equation to find the temperature and density of the plasma. As an in-situ device, a Langmuir Probe would be an excellent candidate for producing data on a sounding rocket, where we spend most of our time in the ideal environment.
 
