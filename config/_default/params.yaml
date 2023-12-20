@@ -16,7 +16,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    description: 'Isaac M Chandler's personal portfolio website. Oooh you want to read it ooh. *waves hands*. A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
     twitter: ''
   analytics:
     google_analytics: ''
