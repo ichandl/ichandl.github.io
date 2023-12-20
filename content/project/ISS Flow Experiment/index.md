@@ -2,6 +2,7 @@
 title: ISS Fluid Flow Experiment
 summary: Experiment exploring turbulence in microgravity.
 tags:
+ - Featured
  - Van Buren Labs
  - Fluid Mechanics
  - Instrumentation

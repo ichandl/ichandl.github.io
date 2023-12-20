@@ -2,6 +2,7 @@
 title: Rock-Sat C Student Launch Opportunity
 summary: Student launch opportunity, investigating plasma physics in the upper ionosphere.
 tags:
+ - Featured
  - DSpOC
  - Instrumentation
 

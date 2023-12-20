@@ -26,12 +26,16 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
-          tag: '*'
+        - name: Featured
+          tag: Featured
         - name: Van Buren Labs 
           tag: Van Buren Labs 
         - name: DSpOC
           tag: DSpOC
+        - name: Coursework
+          tag: Coursework
+        - name: All
+          tag: '*'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
