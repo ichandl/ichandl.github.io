@@ -1,6 +1,6 @@
 ---
 title: Rock-Sat C Student Launch Opportunity
-summary: Student launch opportunity, investigating plasma physics in the upper ionosphere.
+summary: Student launch opportunity investigating plasma in the upper ionosphere. Cool rocket space stuff. Fall 2022 - Summer 2023.
 tags:
  - Featured
  - DSpOC

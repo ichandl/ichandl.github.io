@@ -1,6 +1,6 @@
 ---
 title: Rock-On Workshop
-summary: My first foray into space-flight, instrumentation, and electronics. Spring 2022.
+summary: My first foray into space-flight, instrumentation, and electronics. Goofy lil project. Spring 2022.
 tags:
  - DSpOC
  - Instrumentation

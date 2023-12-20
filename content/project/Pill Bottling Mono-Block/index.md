@@ -1,6 +1,6 @@
 ---
 title: Pill Filling Mono-Block
-summary: Junior design course project; high throughput, high precision packaging system.
+summary: Junior design course project. High throughput, high precision autonomous packaging system. Bane of my existence. Fall 2023 - Spring 2023.
 tags:
  - Coursework
  - Automation
@@ -11,3 +11,4 @@ image:
 show_date: false
 ---
 
+Pills go brr
