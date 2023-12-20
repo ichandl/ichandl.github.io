@@ -1,5 +1,5 @@
 ---
-title: UD Cube-Sat Ground Station
+title: ~ UD Cube-Sat Ground Station
 summary: Ground Station for use on future Delaware-based science missions. Summer 2022 - Spring 2023.
 tags:
  - DSpOC
