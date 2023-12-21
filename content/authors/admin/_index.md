@@ -35,6 +35,7 @@ bio: Undergraduate student interested in Bio-Inspired Design, Robotics, Instrume
 interests:
   - Bio-Inspired Design
   - Robotics
+  - Fluid Mechanics
   - Instrumentation
   - Artificial Intelligence
 
