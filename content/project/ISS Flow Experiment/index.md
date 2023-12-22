@@ -1,6 +1,6 @@
 ---
 title: ISS Fluid Flow Experiment
-summary: Experiment exploring turbulence in microgravity. Wudder spins weird in zero g?!? Summer 2023 - Present
+summary: Exploring turbulence in microgravity. Uses the NanoRacks CubeLab platform. Teaching water to moonwalk. Summer 2023 - Present
 tags:
  - Featured
  - Van Buren Labs

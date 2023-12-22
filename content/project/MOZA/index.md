@@ -1,6 +1,6 @@
 ---
 title: MOZA Unmanned Underwater Vehicle
-summary: Bio-inspired robotics research project. Utilizing fin-fin interaction to design a highly efficient underwater vehicle. Fish-bot go brr. Spring 2023 - Present.
+summary: Bio-inspired robotics research project. Utilizing fin-fin interaction to design a highly efficient underwater vehicle. Fishbot. Spring 2023 - Present.
 tags:
  - Featured
  - Van Buren Labs
